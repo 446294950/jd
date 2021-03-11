@@ -28,7 +28,7 @@ scripts_base_url_7=https://gitee.com/shuye72/MyActions/raw/main/
 my_scripts_list_1=""
 
 # 维护:i-chenzhe   库地址:https://github.com/i-chenzhe/qx
-my_scripts_list_2="jd_entertainment.js jd_fanslove.js z_superDay.js jd_shake.js jd_shakeBean.js jd_shakeBean.js jd_xmf.js z_marketLottery.js z_unionPoster.js"
+my_scripts_list_2="jd_entertainment.js jd_fanslove.js z_superDay.js jd_shake.js jd_shakeBean.js jd_shakeBean.js z_marketLottery.js z_unionPoster.js"
 
 # 维护:whyour      库地址:https://github.com/whyour/hundun/tree/master/quanx
 my_scripts_list_3="jd_zjd_tuan.js"
@@ -110,11 +110,19 @@ fi
 ############################## 宠汪汪群助力 ##############################
 bash /jd/config/help_pet_run.sh
 
-############################## 同步群助力脚本 ##############################
-bash /jd/config/sharecode.sh
-
+############################## 更新对比脚本 ##############################
+cd /jd/sample
+echo -e "开始更新 config.sh.sample "
+wget -q --no-check-certificate https://raw.githubusercontent.com/dockere/jd-base/master/sample/config.sh.sample -O config.sh.sample.new
+if [ $? -eq 0 ]; then
+  mv -f config.sh.sample.new config.sh.sample
+  echo -e "更新 config.sh.sample 完成"
+else
+  rm -rf config.sh.sample
+  echo -e "更新 config.sh.sample 失败，使用上一次正常的版本...\n"
+fi
 ############################## 同步 diy.sh 脚本 ##############################
-cd $ConfigDir
+cd /jd/config
 echo -e "开始更新 diy.sh "
 wget -q --no-check-certificate https://ghproxy.com/https://raw.githubusercontent.com/hocyushing/jd/main/sh/diy.sh -O diy.sh.new
 if [ $? -eq 0 ]; then
