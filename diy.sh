@@ -28,7 +28,7 @@ scripts_base_url_7=https://gitee.com/shuye72/MyActions/raw/main/
 my_scripts_list_1=""
 
 # 维护:i-chenzhe   库地址:https://github.com/i-chenzhe/qx
-my_scripts_list_2="jd_entertainment.js z_superDay.js jd_shake.js jd_shakeBean.js z_marketLottery.js z_unionPoster.js"
+my_scripts_list_2="jd_entertainment.js z_superDay.js jd_shake.js jd_shakeBean.js z_marketLottery.js z_unionPoster.js z_wish.js"
 
 # 维护:whyour      库地址:https://github.com/whyour/hundun/tree/master/quanx
 my_scripts_list_3="jd_zjd_tuan.js"
