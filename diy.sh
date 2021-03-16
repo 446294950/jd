@@ -31,7 +31,7 @@ my_scripts_list_1=""
 my_scripts_list_2="jd_entertainment.js z_superDay.js jd_shake.js jd_shakeBean.js z_marketLottery.js z_unionPoster.js z_wish.js"
 
 # 维护:whyour      库地址:https://github.com/whyour/hundun/tree/master/quanx
-my_scripts_list_3="jd_zjd_tuan.js"
+my_scripts_list_3="jd_zjd.js jd_zjd_tuan.js"
 
 # 维护:moposmall   库地址:https://github.com/moposmall/Script/tree/main/Me
 my_scripts_list_4="jx_cfd_exchange.js"
