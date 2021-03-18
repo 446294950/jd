@@ -34,7 +34,7 @@ my_scripts_list_2="jd_entertainment.js z_superDay.js jd_shake.js jd_shakeBean.js
 my_scripts_list_3="jd_zjd.js jd_zjd_tuan.js"
 
 # 维护:moposmall   库地址:https://github.com/moposmall/Script/tree/main/Me
-my_scripts_list_4="jx_cfd_exchange.js"
+my_scripts_list_4=""
 
 # 维护:qq34347476  库地址:https://github.com/qq34347476/js_script
 my_scripts_list_5="format_share_jd_code.js"
