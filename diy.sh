@@ -110,7 +110,7 @@ fi
 ############################## 更新对比脚本 ##############################
 cd /jd/sample
 echo -e "开始更新 config.sh.sample "
-wget -q --no-check-certificate https://raw.githubusercontent.com/dockere/jd-base/master/sample/config.sh.sample -O config.sh.sample.new
+wget -q --no-check-certificate https://raw.githubusercontent.com/lan-tianxiang/jd_shell/v3/sample/config.sh.sample -O config.sh.sample.new
 if [ $? -eq 0 ]; then
   mv -f config.sh.sample.new config.sh.sample
   echo -e "更新 config.sh.sample 完成"
