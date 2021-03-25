@@ -8,7 +8,7 @@
 
 ############################## 作者昵称 ##############################
 # 使用空格隔开
-author_list="Tartarus2014 i-chenzhe whyour moposmall qq34347476 ZCY01 shuye72"
+author_list="Tartarus2014 i-chenzhe whyour moposmall qq34347476 ZCY01 hocyushing"
 
 ##############################作者脚本地址URL（必填）##############################
 # 例如：https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_nc.js
@@ -20,7 +20,7 @@ scripts_base_url_3=https://ghproxy.com/https://raw.githubusercontent.com/whyour/
 scripts_base_url_4=https://ghproxy.com/https://raw.githubusercontent.com/moposmall/Script/main/Me/
 scripts_base_url_5=https://ghproxy.com/https://raw.githubusercontent.com/qq34347476/js_script/master/scripts/
 scripts_base_url_6=https://ghproxy.com/https://raw.githubusercontent.com/ZCY01/daily_scripts/main/jd/
-scripts_base_url_7=https://gitee.com/shuye72/MyActions/raw/main/
+scripts_base_url_7=https://ghproxy.com/https://raw.githubusercontent.com/hocyushing/jd/main/
 
 ############################## 作者脚本名称 ##############################
 # 将相应作者的脚本填写到以下变量中
@@ -43,7 +43,7 @@ my_scripts_list_5="format_share_jd_code.js"
 my_scripts_list_6=""
 
 # 维护:shuye72     库地址:https://gitee.com/shuye72/MyActions/tree/main ps:尽量不要使用此人脚本,
-my_scripts_list_7=""
+my_scripts_list_7="lxk0301_live_redrain"
 
 
 ############################## 随机函数 ##############################
