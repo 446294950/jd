@@ -28,7 +28,7 @@ scripts_base_url_7=https://ghproxy.com/https://raw.githubusercontent.com/hocyush
 my_scripts_list_1=""
 
 # 维护:i-chenzhe   库地址:https://github.com/i-chenzhe/qx
-my_scripts_list_2="jd_entertainment.js z_marketLottery.js z_unionPoster.js z_mother_jump.js z_oneplus.js z_lenovo.js z_super5g.js z_grassy.js z_sister.js"
+my_scripts_list_2="jd_entertainment.js z_xmf.js z_marketLottery.js z_unionPoster.js z_mother_jump.js z_oneplus.js z_lenovo.js z_super5g.js z_grassy.js z_sister.js"
 
 # 维护:whyour      库地址:https://github.com/whyour/hundun/tree/master/quanx
 my_scripts_list_3=""
