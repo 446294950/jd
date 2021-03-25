@@ -42,7 +42,7 @@ my_scripts_list_5="format_share_jd_code.js"
 # 维护:ZCY01       库地址:https://github.com/ZCY01/daily_scripts/tree/main/jd
 my_scripts_list_6=""
 
-# 维护:shuye72     库地址:https://gitee.com/shuye72/MyActions/tree/main ps:尽量不要使用此人脚本,
+# 维护:hocyushing     库地址:https://raw.githubusercontent.com/hocyushing/jd/main/
 my_scripts_list_7="lxk0301_live_redrain"
 
 
