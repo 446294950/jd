@@ -43,7 +43,7 @@ my_scripts_list_5="format_share_jd_code.js"
 my_scripts_list_6=""
 
 # 维护:hocyushing     库地址:https://raw.githubusercontent.com/hocyushing/jd/main/
-my_scripts_list_7="lxk0301_live_redrain"
+my_scripts_list_7=""
 
 
 ############################## 随机函数 ##############################
