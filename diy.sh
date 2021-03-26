@@ -37,7 +37,7 @@ my_scripts_list_3=""
 my_scripts_list_4=""
 
 # 维护:qq34347476  库地址:https://github.com/qq34347476/js_script
-my_scripts_list_5="format_share_jd_code.js"
+my_scripts_list_5=""
 
 # 维护:ZCY01       库地址:https://github.com/ZCY01/daily_scripts/tree/main/jd
 my_scripts_list_6=""
