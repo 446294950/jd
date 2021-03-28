@@ -31,7 +31,7 @@ my_scripts_list_1=""
 my_scripts_list_2=""
 
 # 维护:whyour      库地址:https://github.com/whyour/hundun/tree/master/quanx
-my_scripts_list_3="jx_cfdtx.js"
+my_scripts_list_3=""
 
 # 维护:moposmall   库地址:https://github.com/moposmall/Script/tree/main/Me
 my_scripts_list_4=""
