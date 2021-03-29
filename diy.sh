@@ -40,10 +40,10 @@ my_scripts_list_4=""
 my_scripts_list_5=""
 
 # 维护:ZCY01       库地址:https://github.com/ZCY01/daily_scripts/tree/main/jd
-my_scripts_list_6="jx_cfdtx.js"
+my_scripts_list_6=""
 
 # 维护:hocyushing     库地址:https://raw.githubusercontent.com/hocyushing/jd/main/
-my_scripts_list_7=""
+my_scripts_list_7="ho.js"
 
 
 ############################## 随机函数 ##############################
